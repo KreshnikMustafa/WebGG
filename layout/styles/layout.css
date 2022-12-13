@@ -319,25 +319,25 @@ input:focus, textarea:focus, *:required:focus{border-color:#a7561d;}
 
 .overlay{color:#dfdfdf; background-color:inherit;}
 .overlay::after{color:inherit; background-color:rgba(0,0,0,.55);}
-.overlay.dark::after{color:inherit; background-color:rgba(37,100,146,.85)/* #256492 */;}
+.overlay.dark::after{color:inherit; background-color:#234258/* #234258 */;}
 .overlay.light::after{background-color:rgba(130,183,223,.65)/* #a7561d */;}
 
 .btn, .btn.inverse:hover{color:#dfdfdf; background-color:#a7561d; border-color:#a7561d;}
 .btn:hover, .btn.inverse{color:inherit; background-color:transparent; border-color:inherit;}
 
-.imgover:hover::before{background:rgba(37,100,146,.35)/* #256492 */;}
+.imgover:hover::before{background:rgba(37,100,146,.35)/* #234258 */;}
 .imgover, .imgover:hover::after{color:#dfdfdf;}
 
-.heading.underline::after{background-color:#256492;}
+.heading.underline::after{background-color:#234258;}
 
 .logoname{color:inherit;}
-.logoname i{color:#256492;}
+.logoname i{color:#234258;}
 
 
 /* Rows */
 .row0{color:#474747; background-color:#dfdfdf;}
 .row1{color:#474747; background-color:#dfdfdf; border-color:rgba(0,0,0,.1);}
-.row2{color:#474747; background-color:#F4F4F4;}
+.row2{color:#474747; background-color:#dfdfdf;}
 .row3{color:#474747; background-color:#dfdfdf; border-color:rgba(0,0,0,.1);}
 .row4{color:#A8A8A8; background-color:#1C1D1F; border-color:rgba(255,255,255,.1);}
 .row5, .row5 a{color:#A8A8A8; background-color:#151618;}
@@ -354,22 +354,22 @@ input:focus, textarea:focus, *:required:focus{border-color:#a7561d;}
 
 /* Services */
 #services li article{color:#dfdfdf; background-color:#a7561d;}
-#services li:nth-child(even) article{background-color:#256492;}
+#services li:nth-child(even) article{background-color:#234258;}
 #services li article a{color:inherit;}
 #services li article > a > i{color:#474747; background:#dfdfdf; border-color:rgba(0,0,0,.1); box-shadow:2px 3px 0px 0px rgba(0,0,0,.3);}
 #services li article:hover > a > i{color:#a7561d;}
-#services li:nth-child(odd) article:hover footer i{color:#256492;}
+#services li:nth-child(odd) article:hover footer i{color:#234258;}
 #services li:nth-child(even) article:hover footer i{color:#a7561d;}
 
 
 /* Click to Action */
-#cta .btn{color:#256492; background-color:#dfdfdf; border-color:#256492;}
+#cta .btn{color:#234258; background-color:#dfdfdf; border-color:#234258;}
 #cta .btn:hover{color:inherit; background-color:transparent; border-color:inherit;}
 
 
 /* Team */
 #team article{box-shadow:0px 0px 15px rgba(0,0,0,.1);}
-#team article:hover{color:inherit; background-color:#F4F4F4;}
+#team article:hover{color:inherit; background-color:#d39c68;}
 #team article footer .faico a{color:inherit; background:transparent;}
 #team article footer .faico .faicon-dribble:hover{color:#EA4C89;}
 #team article footer .faico .faicon-facebook:hover{color:#3B5998;}
