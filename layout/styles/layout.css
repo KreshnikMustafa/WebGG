@@ -55,7 +55,7 @@ File: Layout CSS
 .container{padding:80px 0;}
 
 /* Content */
-.container .content{}
+.costumcontainer.container .content{}
 
 .sectiontitle{display:block; max-width:55%; margin:0 auto 80px; text-align:center;}
 .sectiontitle *{margin:0;}
@@ -86,7 +86,7 @@ File: Layout CSS
 #comments input[type="submit"], #comments input[type="reset"]{display:inline-block; width:auto; min-width:150px; margin:0; padding:8px 5px; cursor:pointer;}
 
 /* Sidebar */
-.container .sidebar{}
+.costumcontainer.container .sidebar{}
 
 .sidebar .sdb_holder{margin-bottom:50px;}
 .sidebar .sdb_holder:last-child{margin-bottom:0;}
@@ -401,8 +401,8 @@ input:focus, textarea:focus, *:required:focus{border-color:#a7561d;}
 #breadcrumb a{color:inherit; background-color:inherit;}
 #breadcrumb li:last-child a{color:#a7561d;}
 
-.container .sidebar nav a{color:inherit; border-color:#D7D7D7;}
-.container .sidebar nav a:hover{color:#a7561d;}
+.costumcontainer.container .sidebar nav a{color:inherit; border-color:#D7D7D7;}
+.costumcontainer.container .sidebar nav a:hover{color:#a7561d;}
 
 .pagination a, .pagination strong{border-color:#D7D7D7;}
 .pagination .current *{color:#dfdfdf; background-color:#a7561d;}
@@ -455,7 +455,7 @@ table a, #comments a{background-color:inherit;}
 
 	#breadcrumb{}
 
-	.container{}
+	.costumcontainer.container{}
 	#comments input[type="reset"]{margin-top:10px;}
 	.pagination li{display:inline-block; margin:0 5px 5px 0;}
 
@@ -502,3 +502,5 @@ table a, #comments a{background-color:inherit;}
 	.font-x2{font-size:1.6rem;}
 	.font-x3{font-size:1.8rem;}
 }
+.costumrow{color:#474747; background-color:#dfdfdf; border-color:rgba(0,0,0,.1);}
+.costumcontainer{padding:30px 0;}
