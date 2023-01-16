@@ -16,3 +16,9 @@ jQuery("#Drejtimetbtn").click(function () {
         scrollTop: position
     }, 450);
 });
+jQuery("#Drejtimetbtn1").click(function () {
+    var position = $("#Drejtimettop").offset().top;
+    jQuery("body,html").animate({
+        scrollTop: position
+    }, 450);
+});
