@@ -605,3 +605,16 @@ table a, #comments a{background-color:inherit;}
   from {opacity: .5}
   to {opacity: 2}
 }
+
+
+
+
+
+
+.selecter{
+	color: #234258;
+}
+
+.hidden{
+	display: none;
+}
