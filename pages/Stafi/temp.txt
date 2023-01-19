@@ -1,0 +1,56 @@
+Lendita Hoxha    UP-Prof.e Dipl.e gjuhës Shqipe, Msc.i shkencave në gjuhën Shqipe.
+Teuta Hajdini    UP-Bachellor i gjuhës Shqipe -42 vjeçar, Bachellor i gjuhës Shqipe 4 vjeçar.
+Hyrije Dreshaj   UP-Prof.e Dipl.e gjuhës Shqipe-Masterin, Msc.i shkencave në gjuhën Shqipe.
+Lindita Pemaj    Universiteti i Shkodres "Luigj Gurakuqi", Mësuese e gjuhës Shqipe 4 vjeçar.
+Mukadeze Isufi   UP-Prof.e Dipl.e gjuhës Shqipe, Prof.e Dipl.e gjuhës Shqipe.
+Fjoralba Veliu   Universiteti "Ukshin Hoti" Prizren, Bachellor i gjuhës Angleze 4 vjeçar, Bachellori gjuhës Angleze 4 vjeçar.
+Sadete Morina    UP-Prof.e Dipl.e gjuhës Angleze, Prof.e Dipl.e gjuhës Angleze.
+Shkëndije Kasumaj    UP-Prof.e Dipl.e gjuhës Angleze, Prof.e Dipl.e gjuhës Angleze.
+Ilire Zajmi  UP-Prof.e Dipl.e gjuhës Angleze, Prof.e Dipl.e gjuhës Angleze.
+Bujar Shemsedini     UP-Prof.e Dipl.i edukatës fizike, Prof.e Dipl.i edukatës fizike.
+Teuta Xërxa  UP-Prof.e Dipl.i edukatës fizike, Prof.e Dipl.i edukatës fizike.
+Shefqet Hasani   UP-Prof.e Dipl.i edukatës fizike Master, Msc. i edukatës fizike.
+Petit Rama   UP-Prof.e Dipl.i edukatës fizike Master, Msc. i edukatës fizike.
+Anduena Hajredinaj   UP Prof. e matematikës Master, Msc. i shkencave në matematikë.
+Zethane Podrimaj     UP Prof. e Dipl. e matematikës, Prof. e Dipl. e matematikës.
+Suzana Xhafa     UP FSHMN Bachellor i matematikë-informatikë, Bachellor i matematikë-informatikë.
+Arbnore Ajazi    UP FSHMN Bachellor i matematikë-informatikë 4 vjeçar, UP FSHMN-Msc i sc.matematikë.
+Fatmire Pllana-Xhemajli  UP FSHMN Bachellor i matematikë-informatikë 4 vjeçar, Bachellor i matematikë-informatikë 4 vjeçar.
+Qazim Gashi UP   Fakulteti filozofik Prof. i pedagogjisë, UP Prof i pedagogjisë.
+Bujar Abdullahu  UP Prof. i Dipl. i fizikës, Msc. i shkencave në fizikë.
+Antigona Krasniqi    UP Bachellor e fizikës, UP Bachellor e fizikës.
+Minire Osmani    UP Fakulteti i edukimit, Bachellor fizikë-kimi 4 vjeçar, Bachellor fizikë-kimi 4 vjeçar.
+Jehona Idrizi    UP Bachellor i ekonomisë-Master i ekonomisë, Master i ekonomisë.
+Mirvete Gashi    UP Ecc. e Diplomuar, Ecc. e Diplomuar.
+Lendita Rexha    UP Bachellor i inxhinierisë kompjuterike - kompjuterike, Ms. i sc ne kompjuterikë dhe inxhinieri(Kolegji privat - UBT).
+Gëzim Isufi     UP inxh. i Dipl. elektroteknikës-elektronikës, Msc. i sc. te elektronikës. 
+Drita Rexhepi   UP inxh. i Dipl. elektroteknikës-elektronikës, Msc. i sc. te elektronikës.
+Arjeta Maraj-Gashi  UP Bachellor i inxhinierisë elektrike-automatikë, Ms. i sc ne kompjuterikë dhe inxhinieri(Kolegji privat - UBT).
+Arbresha Berisha    Bachellor i postë telekomunikacionit (Kolegji privat Tempulli), Bachellor i postë telekomunikacionit.
+Xheva Kelmendi  UP Bachellor i inxhinierisë elektrike-elektroenergjetikë industriale, Ms. i sc ne kompjuterikë dhe inxhinieri(Kolegji privat - UBT).
+Shehrije Balaj  UP inxh. i Dipl. elektroteknikës-elektronikës, Msc. i sc. te elektronikës.
+Shpresa Morina  UP inxh. i Dipl. elektroteknikës-elektronikës, Msc. i sc. te elektronikës.
+Tushe Maxhuni   UP inxh. i Dipl. elektroteknikës-energjetikës, Msc. i sc. te energjetikës.
+Zadi Lahi   UP inxh. i Dipl.elektroteknikës-kompjuterikë me me telekomunikacion, Msc. i sc. i kompjuterikës me telekomunikacion.
+Nerxhivane Përvetica    UP inxh. i Dipl. elektroteknikës-kompjuterikë me telekomunikacion, Msc. i sc. i kompjuterikës me telekomunikacion.
+Bedrie Selmani  UP inxh. i Dipl. elektroteknikës-elektronikë, Master.
+Florije Kadriu  UP inxh. i Dipl. elektroteknikës-elektronikë, Msc. i sc. të elektronikës.
+Fexhrije Kastrati UP inxh. i Dipl. elektroteknikës-elektronikë, Msc. i sc. të elektronikës.
+Sefete Shala    UP inxh. i Dipl. elektroteknikës-elektronikë, Msc. i sc. të elektronikës.
+Xhevdet Spahiu  UP inxh. i Dipl. elektroteknikës-automatikë me elektronikë, Msc. i sc. automatikës me elektronikë - Universiteti i Vlorës - Dr. i matematikës.
+Kujtim Alidema  UP inxh. i Dipl. i makinerisë, msc. i sc. te makinerisë.
+Sadbere Gashi    UP inxh. i Dipl. elektroteknikës-kompjuterikë me telekomunikacion, Msc. i sc. i kompjuterikës me telekomunikacion.
+Shpëtim Bokshi  UP inxh. i Dipl. elektroteknikës-elektronikë, Msc. i sc. të elektronikës.
+Ibrahim Kadriu  UP inxh. i Dipl. elektroteknikës-elektronikë, Msc. i sc. të elektronikës.
+Elife Kadriu    UP inxh. i Dipl. elektroteknikës-elektroenergjetikë industriale, Msc
+Hidajete Gashi  UP inxh. i Dipl. elektroteknikës-kompjuterikë me telekomunikacion, Msc. i sc. i kompjuterikës me telekomunikacion.
+Teuta Kosumi    UP Bachellor i inxhinierisë elektrike-telekomunikacion, Msc i sc. ne kompjuterikë dhe inxhinieri (Kolegji privat UBT).
+Mimoza Pacolli-Gashi     UP inxh. i Dipl. elektroteknikës-kompjuterike me telekomunikacion, Msc. i sc. kompjuterikës me telekomunikacion.
+Drita Ferati    UP inxh. i Dipl. elektroteknikës-energjetikë, Msc.i sc. te energjetikës.
+Valbonë Islami Bachellor i inxhinierisë kompjuterike-kompjuterikë, Msc. i sc. ne kompjuterikë dhe inxhinieri (Kolegji privat UBT).
+Tefik Krasniqi  UP inxh. i Dipl. elektroteknikës-sistemet energjetike, Msc. i sc. i sistemeve elektroenergjetike.
+Shota Gjonaj    UP inxh. i Dipl. elektroteknikës-sistemet energjetike, Msc. i sc. i sistemeve elektroenergjetike.
+Liburna Demiqi  UP Bachellor i sistemeve energjetike, Msc. i ec. i elektroenergjetike.
+Selami Spahiu   UP inxh. i Dipl. elektroteknikës-energjetikë, Msc. i sc. të energjetikës.   
+Valbonë Dragusha    UP inxh. i Dipl. elektroteknikës-energjetikë, Msc. i sc. të energjetikës.
+Enkela Vula     UP inxh. i Dipl. elektroteknikës-energjetikë, UP Fakulteti i edukimit, Master për shkollat profesionale.
