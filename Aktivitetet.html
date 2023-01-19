@@ -41,7 +41,7 @@
     <nav id="mainav">
       <ul class="clear">
         <li class="homelogo"> <a href="index.html"><img src="images/demo/OIP.png" alt="" ></a> </li>
-        <li class="active"><a href="index.html">Home</a></li>
+        <li><a href="index.html">Home</a></li>
         <li><a class="drop" href="#">Pages</a>
           <ul>
             <li><a href="pages/Stafi/gallery.html">Stafi i Shkollës</a></li>
@@ -55,29 +55,59 @@
         <li><a href="Lajmet.html">Lajmet</a></li>
         <li><a href="Komentet.html">Komente</a></li>
         <li><a href="#">Link Text</a></li>
-        <li><a href="Aktivitetet.html">Aktivitetet e nxënësves</a></li>
+        <li  class="active"><a href="#">Aktivitetet e nxënësve</a></li>
       </ul>
     </nav>
     
   </div>
 </div>
 
-<div class="wrapper bgded overlay" style="background-image:url('images/demo/backgrounds/GGPH.jpg');">
-  <div id="pageintro" class="hoc clear"> 
+<div class="slideshow-container fade">
+
  
-    <article>
-      <h3 class="heading">SH.M.L<br>
-        Gjin Gazulli</h3>
-      <footer>
-        <ul class="nospace inline pushright">
-          <li><a id="Drejtimetbtn"class="btn" href="#Drejtimet">Profilet</a></li>
-          <li><a class="btn inverse" href="pages/Stafi/gallery.html">Stafi i Shkollës</a></li>
-        </ul>
-      </footer>
-    </article>
-   
-  </div>
+    <div class="Containers">
+      <div class="MessageInfo">1 / 5</div>
+      <img src="images/demo/backgrounds/01.png" style="width:100%">
+      <div class="Info">First caption</div>
+    </div>
+  
+    <div class="Containers">
+      <div class="MessageInfo">2 / 5</div>
+      <img src="images/demo/backgrounds/GGPH.jpg" style="width:100%">
+      <div class="Info">Second Caption</div>
+    </div>
+  
+    <div class="Containers">
+      <div class="MessageInfo">3 / 5</div>
+      <img src="images/demo/backgrounds/01.png" style="width:100%">
+      <div class="Info">Third Caption</div>
+    </div>
+
+    <div class="Containers">
+        <div class="MessageInfo">4 / 5</div>
+        <img src="images/demo/backgrounds/GGPH.jpg" style="width:100%">
+        <div class="Info">Fourth Caption</div>
+    </div>
+
+    <div class="Containers">
+        <div class="MessageInfo">5 / 5</div>
+        <img src="images/demo/backgrounds/GGPH.jpg" style="width:100%">
+        <div class="Info">Fifth Caption</div>
+    </div>
+ 
+    <a class="Back" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="forward" onclick="plusSlides(1)">&#10095;</a>
 </div>
+
+  <br>
+
+<div style="text-align:center">
+    <span class="dots" onclick="currentSlide(1)"></span>
+    <span class="dots" onclick="currentSlide(2)"></span>
+    <span class="dots" onclick="currentSlide(3)"></span>
+    <span class="dots" onclick="currentSlide(4)"></span>
+    <span class="dots" onclick="currentSlide(5)"></span>
+</div> 
 
 <div class="wrapper row3">
   <main class="hoc container clear"> 
@@ -85,7 +115,7 @@
 
     <article class="group">
       <div class="one_half first">
-        <h6 class="heading underline font-x2">Fillon Praktika profesionale në PBC Academy</h6>
+        <h6 class="heading underline font-x2">Fillon Praktika profesionale në PCB Academy</h6>
         <p>PBC Academy ua mundëson praktikën në programim 50 nxënësve të SH.M.L "Gjin Gazulli"</p>
         
         <p class="btmspace-30">PBC Academy, hap dyert për praktikë për 50 nxënës të SH.M.L Gjin Gazulli, në Prishtinë.
@@ -112,59 +142,7 @@
   </div>
 </div>
 
-<div id="Drejtimet" class="wrapper row3">
-  <section id="services" class="hoc container clear"> 
-
-    <div class="center btmspace-80">
-      <h6 id="Drejtimettop" class="heading underline font-x2" >Profilet</h6>
-    </div>
-    <ul class="nospace group">
-      <li class="one_third">
-        <article><a href="#"><i class="fas fa-desktop"></i></a>
-          <h6 class="heading">Fringilla</h6>
-          <p>Tempus eget mattis et risus nulla ligula in quam sed lobortis rutrum purus pellentesque dictum augue in quam.</p>
-          <footer><a href="#"><i class="fas fa-arrow-right"></i></a></footer>
-        </article>
-      </li>
-      <li class="one_third">
-        <article><a href="#"><i class="fas fa-desktop"></i></a>
-          <h6 class="heading">Tristique</h6>
-          <p>Nunc rhoncus nisi eu est nulla dolor donec ut dolor aliquam eget nunc etiam consequat enim vel nisl donec.</p>
-          <footer><a href="#"><i class="fas fa-arrow-right"></i></a></footer>
-        </article>
-      </li>
-      <li class="one_third">
-        <article><a href="#"><i class="fas fa-desktop"></i></a>
-          <h6 class="heading">Bibendum</h6>
-          <p>Hendrerit velit ac augue cras pharetra donec ligula mauris euismod sed lobortis quis ultricies lacus aenean.</p>
-          <footer><a href="#"><i class="fas fa-arrow-right"></i></a></footer>
-        </article>
-      </li>
-      <li class="one_third">
-        <article><a href="#"><i class="fas fa-desktop"></i></a>
-          <h6 class="heading">Phasellus</h6>
-          <p>Auctor lorem a felis aliquam quam mi rutrum malesuada consequat vitae accumsan ut lacus aliquam ante tortor.</p>
-          <footer><a href="#"><i class="fas fa-arrow-right"></i></a></footer>
-        </article>
-      </li>
-      <li class="one_third">
-        <article><a href="#"><i class="fas fa-desktop"></i></a>
-          <h6 class="heading">Vestibulum</h6>
-          <p>Suscipit sed semper ac nulla quisque eget lectus a quam ullamcorper consectetuer aliquam molestie tempor mauris.</p>
-          <footer><a href="#"><i class="fas fa-arrow-right"></i></a></footer>
-        </article>
-      </li>
-      <li class="one_third">
-        <article><a href="#"><i class="fas fa-desktop"></i></a>
-          <h6 class="heading">Pellentesque</h6>
-          <p>Nunc accumsan metus quis metus vestibulum ut neque proin commodo semper magna aenean id eros vitae.</p>
-          <footer><a href="#"><i class="fas fa-arrow-right"></i></a></footer>
-        </article>
-      </li>
-    </ul>
-  </section>
-</div>
-
+<br>
 
 <div class="wrapper bgded overlay light" style="background-image:url('images/demo/backgrounds/011.png');">
   <section id="cta" class="hoc container clear"> 
@@ -175,94 +153,6 @@
     
     <!-- <footer class="one_quarter"><a class="btn" href="#">Parturient nascetur</a></footer> -->
     
-  </section>
-</div>
-
-<div class="wrapper row3 ">
-  <section id="team" class="hoc container clear"> 
-
-    <div class="center btmspace-80">
-      <h6 class="heading underline font-x2">Ridiculus mus duis sed</h6>
-    </div>
-    <ul class="nospace group">
-      <li class="one_quarter first">
-        <article>
-          <figure><a class="imgover" href="#"><img src="images/demo/300x300.png" alt=""></a>
-            <figcaption class="heading">Bujar Gjocaj</figcaption>
-          </figure>
-          <em>Drejtor</em>
-          <p>Nulla etiam eget lacus sit amet eros tempus elementum vivamus ligula mauris blandit eu </p>
-         
-        </article>
-      </li>
-      <li class="one_quarter">
-        <article>
-          <figure><a class="imgover" href="#"><img src="images/demo/300x300.png" alt=""></a>
-            <figcaption class="heading">John Doe</figcaption>
-          </figure>
-          <em>Job Type Here</em>
-          <p>Phasellus congue dictum tortor maecenas eget erat eget nulla venenatis vehicula duis posuere </p>
-          
-        </article>
-      </li>
-      <li class="one_quarter">
-        <article>
-          <figure><a class="imgover" href="#"><img src="images/demo/300x300.png" alt=""></a>
-            <figcaption class="heading">Janet Doe</figcaption>
-          </figure>
-          <em>Job Type Here</em>
-          <p>Tellus vel fringilla auctor nisi arcu semper urna at congue lectus nisi ac neque in hac </p>
-          
-        </article>
-      </li>
-      <li class="one_quarter">
-        <article>
-          <figure><a class="imgover" href="#"><img src="images/demo/300x300.png" alt=""></a>
-            <figcaption class="heading">Jamie Doe</figcaption>
-          </figure>
-          <em>Job Type Here</em>
-          <p>Habitasse platea dictumst nulla facilisi nulla facilisi phasellus tincidunt est a tortor </p>
-          
-        </article>
-      </li>
-    </ul>
-    
-  </section>
-</div>
-
-<div class="wrapper row3">
-  <section id="testimonials" class="hoc container clear"> 
-   
-    <div class="center btmspace-80">
-      <h6 class="heading underline font-x2">Quisque sodales morbi</h6>
-    </div>
-    <ul class="nospace group btmspace-80">
-      <li class="one_third first">
-        <blockquote>Magna arcu pharetra eu interdum quis blandit ac orci phasellus sit amet leo lobortis orci imperdiet tempus sed tincidunt arcu in consequat pretium quam lacus rhoncus orci lobortis sagittis</blockquote>
-        <figure class="clear"><img class="circle" src="images/demo/60x60.png" alt="">
-          <figcaption>
-            <h6 class="heading">A. Doe</h6>
-            <em>CEO / Company Name</em></figcaption>
-        </figure>
-      </li>
-      <li class="one_third">
-        <blockquote>Lorem leo vel ligula vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; quisque urna velit accumsan bibendum scelerisque sed suscipit a velit duis nec ipsum</blockquote>
-        <figure class="clear"><img class="circle" src="images/demo/60x60.png" alt="">
-          <figcaption>
-            <h6 class="heading">B. Doe</h6>
-            <em>Director / Company Name</em></figcaption>
-        </figure>
-      </li>
-      <li class="one_third">
-        <blockquote>Sed urna egestas consectetuer suspendisse lorem ut tortor est lobortis eu venenatis vitae pretium eu felis cras erat est cursus sed dignissim sed euismod in turpis praesent vestibulum hendrerit</blockquote>
-        <figure class="clear"><img class="circle" src="images/demo/60x60.png" alt="">
-          <figcaption>
-            <h6 class="heading">C. Doe</h6>
-            <em>Marketing / Company Name</em></figcaption>
-        </figure>
-      </li>
-    </ul>
-    <footer><a class="btn" href="Komentet.html">View More &raquo;</a></footer>
   </section>
 </div>
 
@@ -385,5 +275,6 @@
 <script src="layout/scripts/jquery.min.js"></script>
 <script src="layout/scripts/jquery.backtotop.js"></script>
 <script src="layout/scripts/jquery.mobilemenu.js"></script>
+<script src="layout/scripts/lightslider.min.js"></script>
 </body>
 </html>
