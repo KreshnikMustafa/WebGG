@@ -7,8 +7,6 @@ select.addEventListener("change", function() {
         var item = items[i];
         if (selectedValue === "all" || item.classList.contains(selectedValue)) {
             item.classList.remove("hidden");
-        // } else if (selectedValue === "Gjuhë" || item.classList.contains(selectedValue)) {
-        //     item.classList.remove("hidden");
         }else {
             item.classList.add("hidden");
         }
