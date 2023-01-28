@@ -108,10 +108,20 @@
           <figcaption>Gallery Description Goes Here</figcaption>
         </figure>
       </div> -->
-      <div class="wrapper costumrow" style="border-style: none; padding: 30px;">
+
+      <div id="filter-container" style="background-color: #dfdfdf;">
+        <h1 style="color: #234258;">Filter</h1>
+        <select class="selecter" id="filter-select">
+          <option value="all">Të gjitha</option>
+          <option value="Prof">Lëndë Profesionale</option>
+          <option value="Psi">Psikologu</option>
+        </select>
+      </div>
+
+      <div id="item-container" class="wrapper costumrow" style="border-style: none; padding: 30px;">
         <section id="team" class="hoc costumcontainer clear"> 
           <ul class="nospace group">
-            <li class="one_quarter first">
+            <li class="one_quarter first item Prof">
               <article>
                 <figure>
                   <a class="imgover" href="#"><img src="../../images/demo/300x300.png" alt=""></a>
@@ -124,7 +134,7 @@
                
               </article>
             </li>
-            <li class="one_quarter">
+            <li class="one_quarter item Prof">
               <article>
                 <figure>
                   <a class="imgover" href="#"><img src="../../images/demo/300x300.png" alt=""></a>
@@ -137,7 +147,7 @@
                 
               </article>
             </li>
-            <li class="one_quarter">
+            <li class="one_quarter item Prof">
               <article>
                 <figure>
                   <a class="imgover" href="#"><img src="../../images/demo/300x300.png" alt=""></a>
@@ -150,7 +160,7 @@
                 
               </article>
             </li>
-            <li class="one_quarter">
+            <li class="one_quarter item Prof">
               <article>
                 <figure>
                   <a class="imgover" href="#"><img src="../../images/demo/300x300.png" alt=""></a>
@@ -166,10 +176,10 @@
           
         </section>
       </div>
-      <div class="wrapper costumrow" style="border-style: none; padding: 30px;">
+      <div id="item-container" class="wrapper costumrow" style="border-style: none; padding: 30px;">
         <section id="team" class="hoc costumcontainer clear"> 
           <ul class="nospace group">
-            <li class="one_quarter first">
+            <li class="one_quarter first item Prof">
               <article>
                 <figure>
                   <a class="imgover" href="#"><img src="../../images/demo/300x300.png" alt=""></a>
@@ -182,7 +192,7 @@
                
               </article>
             </li>
-            <li class="one_quarter">
+            <li class="one_quarter item Prof">
               <article>
                 <figure>
                   <a class="imgover" href="#"><img src="../../images/demo/300x300.png" alt=""></a>
@@ -193,7 +203,7 @@
                 
               </article>
             </li>
-            <li class="one_quarter">
+            <li class="one_quarter item Prof">
               <article>
                 <figure>
                   <a class="imgover" href="#"><img src="../../images/demo/300x300.png" alt=""></a>
@@ -204,7 +214,7 @@
                 
               </article>
             </li>
-            <li class="one_quarter">
+            <li class="one_quarter item Prof">
               <article>
                 <figure>
                   <a class="imgover" href="#"><img src="../../images/demo/300x300.png" alt=""></a>
@@ -219,10 +229,10 @@
           
         </section>
       </div>
-      <div class="wrapper costumrow" style="border-style: none; ">
+      <div id="item-container" class="wrapper costumrow" style="border-style: none; ">
         <section id="team" class="hoc costumcontainer clear"> 
           <ul class="nospace group">
-            <li class="one_quarter first">
+            <li class="one_quarter first item Psi">
               <article>
                 <figure>
                   <a class="imgover" href="#"><img src="../../images/demo/300x300.png" alt=""></a>
@@ -236,10 +246,6 @@
                
               </article>
             </li>
-            
-           
-           
-
           </ul>
           
         </section>
@@ -354,5 +360,6 @@
 <script src="../../layout/scripts/jquery.min.js"></script>
 <script src="../../layout/scripts/jquery.backtotop.js"></script>
 <script src="../../layout/scripts/jquery.mobilemenu.js"></script>
+<script src="../../layout/scripts/filter.js"></script>
 </body>
 </html>

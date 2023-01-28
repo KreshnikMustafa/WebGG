@@ -12,3 +12,4 @@ select.addEventListener("change", function() {
         }
     }
 });
+

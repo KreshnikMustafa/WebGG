@@ -2,7 +2,7 @@
 <html lang="">
 <!-- To declare your language - read more here: https://www.w3.org/International/questions/qa-html-language-declarations -->
 <head>
-<title>Shicso | Pages | Gallery</title>
+<title>Gjin Gazulli | Stafi</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link href="../../layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
@@ -108,10 +108,23 @@
           <figcaption>Gallery Description Goes Here</figcaption>
         </figure>
       </div> -->
-      <div class="wrapper costumrow" style="border-style: none; padding: 30px;">
+
+      <div id="filter-container" style="background-color: #dfdfdf;">
+        <h1 style="color: #234258;">Filter</h1>
+        <select class="selecter" id="filter-select">
+          <option value="all">Të gjitha</option>
+          <option value="Mat">Matematikë</option>
+          <option value="Social">Lëndë Sociale</option>
+          <option value="Fiz">Fizikë</option>
+          <option value="Eko">Ekonomi</option>
+          <option value="Prof">Lënd Profesionale</option>
+        </select>
+      </div>
+
+      <div id="item-container" class="wrapper costumrow" style="border-style: none; padding: 30px;">
         <section id="team" class="hoc costumcontainer clear"> 
           <ul class="nospace group">
-            <li class="one_quarter first">
+            <li class="one_quarter first item Mat">
               <article>
                 <figure>
                   <a class="imgover" href="#"><img src="../../images/demo/300x300.png" alt=""></a>
@@ -124,7 +137,7 @@
                
               </article>
             </li>
-            <li class="one_quarter">
+            <li class="one_quarter item Mat">
               <article>
                 <figure>
                   <a class="imgover" href="#"><img src="../../images/demo/300x300.png" alt=""></a>
@@ -137,7 +150,7 @@
                 
               </article>
             </li>
-            <li class="one_quarter">
+            <li class="one_quarter item Social">
               <article>
                 <figure>
                   <a class="imgover" href="#"><img src="../../images/demo/300x300.png" alt=""></a>
@@ -150,7 +163,7 @@
                 
               </article>
             </li>
-            <li class="one_quarter">
+            <li class="one_quarter item Fiz">
               <article>
                 <figure>
                   <a class="imgover" href="#"><img src="../../images/demo/300x300.png" alt=""></a>
@@ -166,10 +179,10 @@
           
         </section>
       </div>
-      <div class="wrapper costumrow" style="border-style: none; padding: 30px;">
+      <div id="item-container" class="wrapper costumrow" style="border-style: none; padding: 30px;">
         <section id="team" class="hoc costumcontainer clear"> 
           <ul class="nospace group">
-            <li class="one_quarter first">
+            <li class="one_quarter first item Fiz">
               <article>
                 <figure>
                   <a class="imgover" href="#"><img src="../../images/demo/300x300.png" alt=""></a>
@@ -182,7 +195,7 @@
                
               </article>
             </li>
-            <li class="one_quarter">
+            <li class="one_quarter item Fiz">
               <article>
                 <figure>
                   <a class="imgover" href="#"><img src="../../images/demo/300x300.png" alt=""></a>
@@ -193,7 +206,7 @@
                 
               </article>
             </li>
-            <li class="one_quarter">
+            <li class="one_quarter item Eko">
               <article>
                 <figure>
                   <a class="imgover" href="#"><img src="../../images/demo/300x300.png" alt=""></a>
@@ -204,7 +217,7 @@
                 
               </article>
             </li>
-            <li class="one_quarter">
+            <li class="one_quarter item Eko">
               <article>
                 <figure>
                   <a class="imgover" href="#"><img src="../../images/demo/300x300.png" alt=""></a>
@@ -219,10 +232,10 @@
           
         </section>
       </div>
-      <div class="wrapper costumrow" style="border-style: none; ">
+      <div id="item-container" class="wrapper costumrow" style="border-style: none; ">
         <section id="team" class="hoc costumcontainer clear"> 
           <ul class="nospace group">
-            <li class="one_quarter first">
+            <li class="one_quarter first item Prof">
               <article>
                 <figure>
                   <a class="imgover" href="#"><img src="../../images/demo/300x300.png" alt=""></a>
@@ -233,7 +246,7 @@
                
               </article>
             </li>
-            <li class="one_quarter">
+            <li class="one_quarter item Prof">
               <article>
                 <figure>
                   <a class="imgover" href="#"><img src="../../images/demo/300x300.png" alt=""></a>
@@ -244,7 +257,7 @@
                 
               </article>
             </li>
-            <li class="one_quarter">
+            <li class="one_quarter item Prof">
               <article>
                 <figure>
                   <a class="imgover" href="#"><img src="../../images/demo/300x300.png" alt=""></a>
@@ -255,7 +268,7 @@
                 
               </article>
             </li>
-            <li class="one_quarter">
+            <li class="one_quarter item Prof">
               <article>
                 <figure>
                   <a class="imgover" href="#"><img src="../../images/demo/300x300.png" alt=""></a>
@@ -270,10 +283,10 @@
           
         </section>
       </div>
-      <div class="wrapper costumrow" style="border-style: none;">
+      <div id="item-container" class="wrapper costumrow" style="border-style: none;">
         <section id="team" class="hoc costumcontainer clear"> 
           <ul class="nospace group">
-            <li class="one_quarter first">
+            <li class="one_quarter first item Prof">
               <article>
                 <figure>
                   <a class="imgover" href="#"><img src="../../images/demo/300x300.png" alt=""></a>
@@ -284,7 +297,7 @@
                
               </article>
             </li>
-            <li class="one_quarter">
+            <li class="one_quarter item Prof">
               <article>
                 <figure>
                   <a class="imgover" href="#"><img src="../../images/demo/300x300.png" alt=""></a>
@@ -295,7 +308,7 @@
                 
               </article>
             </li>
-            <li class="one_quarter">
+            <li class="one_quarter item Prof">
               <article>
                 <figure>
                   <a class="imgover" href="#"><img src="../../images/demo/300x300.png" alt=""></a>
@@ -306,7 +319,7 @@
                 
               </article>
             </li>
-            <li class="one_quarter">
+            <li class="one_quarter item Prof">
               <article>
                 <figure>
                   <a class="imgover" href="#"><img src="../../images/demo/300x300.png" alt=""></a>
@@ -421,5 +434,6 @@
 <script src="../../layout/scripts/jquery.min.js"></script>
 <script src="../../layout/scripts/jquery.backtotop.js"></script>
 <script src="../../layout/scripts/jquery.mobilemenu.js"></script>
+<script src="../../layout/scripts/filter.js"></script>
 </body>
 </html>
