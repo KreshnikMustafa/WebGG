@@ -319,8 +319,8 @@ input:focus, textarea:focus, *:required:focus{border-color:#a7561d;}
 
 .overlay{color:#dfdfdf; background-color:inherit;}
 .overlay::after{color:inherit; background-color:rgba(0,0,0,.55);}
-.overlay.dark::after{color:inherit; background-color:#234258/* #234258 */;}
-.overlay.light::after{background-color:rgba(130,183,223,.65)/* #a7561d */;}
+.overlay.dark::after{color:inherit; /* background-color:#234258 */ /* #234258 */}
+.overlay.light::after{/* background-color:rgba(130,183,223,.65) */ /* #a7561d */}
 
 .btn, .btn.inverse:hover{color:#dfdfdf; background-color:#a7561d; border-color:#a7561d;}
 .btn:hover, .btn.inverse{color:inherit; background-color:transparent; border-color:inherit;}
@@ -618,3 +618,5 @@ table a, #comments a{background-color:inherit;}
 .hidden{
 	display: none;
 }
+
+
